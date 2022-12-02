@@ -1,6 +1,6 @@
 # Awesome RL algorithms for MOBA games Paper List(and some relevent codes) 
 
-:running:    **Keep updating** deep learning based multi-label image recognition (MLIR) methods with different settings.
+:running:    **Keep updating** Rl algorithms for MOBA games.
 
 Todo List:
 
